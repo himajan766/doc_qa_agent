@@ -1,0 +1,14 @@
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-core>=0.3.67
+openai>=1.0.0
+chromadb>=0.4.0
+pypdf>=3.17.0
+tiktoken>=0.5.0
+python-dotenv>=0.19.0
+docx2txt>=0.8
+unstructured>=0.10.0
+openpyxl>=3.0.0
+jq>=1.6.0
